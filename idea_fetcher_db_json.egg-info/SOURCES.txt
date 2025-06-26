@@ -1,0 +1,7 @@
+README.md
+setup.py
+idea_fetcher_db_json.egg-info/PKG-INFO
+idea_fetcher_db_json.egg-info/SOURCES.txt
+idea_fetcher_db_json.egg-info/dependency_links.txt
+idea_fetcher_db_json.egg-info/requires.txt
+idea_fetcher_db_json.egg-info/top_level.txt
