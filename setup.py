@@ -31,7 +31,7 @@ class CustomInstall(install):
 setup(
     name="idea-fetcher-db-json",
     version="0.1",
-    install_requires=["requests", "app"],
+    install_requires=["requests"],
     py_modules=[],
     cmdclass={'install': CustomInstall}
 )
